@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Srivishnumn
-- 👀 I’m interested in Java coding
-- 🌱 I’m currently learning kotlin.
-- 📫 You can reach me through vishnusrimn@gmail.com
+- I’m interested in Java coding
+
 
 <!---
 Srivishnumn/Srivishnumn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
